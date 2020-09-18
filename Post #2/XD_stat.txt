@@ -1,0 +1,42 @@
+Name : ZHENG Si Wei/HUANG Ya Qiong
+# Matches : 122
+# Matches Won:  109
+Win rate:  0.8934426229508197
+# Final Rounds:  21
+# Won titles:  15
+Avg dur:  36.057377049180324
+Winning Trend by Round: 
+R1:  0.96
+R2:  0.9583333333333334
+QF:  0.9130434782608695
+SF:  0.9130434782608695
+F:  0.7142857142857143 
+
+Name : WANG Yi Lyu/HUANG Dong Ping
+# Matches : 113
+# Matches Won:  91
+Win rate:  0.8053097345132744
+# Final Rounds:  17
+# Won titles:  6
+Avg dur:  39.72566371681416
+Winning Trend by Round: 
+R1:  0.9230769230769231
+R2:  0.9166666666666666
+QF:  0.7272727272727273
+SF:  0.9444444444444444
+F:  0.35294117647058826 
+
+Name : Dechapol PUAVARANUKROH/Sapsiree TAERATTANACHAI
+# Matches : 120
+# Matches Won:  86
+Win rate:  0.7166666666666667
+# Final Rounds:  7
+# Won titles:  3
+Avg dur:  44.583333333333336
+Winning Trend by Round: 
+R1:  0.9393939393939394
+R2:  0.8387096774193549
+QF:  0.5769230769230769
+SF:  0.4117647058823529
+F:  0.42857142857142855 
+

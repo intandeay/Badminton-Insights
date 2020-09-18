@@ -1,0 +1,42 @@
+Name : Kento MOMOTA
+# Matches : 117
+# Matches Won:  102
+Win rate:  0.8717948717948718
+# Final Rounds:  18
+# Won titles:  14
+Avg dur:  51.72649572649573
+Winning Trend by Round: 
+R1:  0.8888888888888888
+R2:  0.9166666666666666
+QF:  0.8181818181818182
+SF:  0.9
+F:  0.7777777777777778 
+
+Name : CHOU Tien Chen
+# Matches : 121
+# Matches Won:  89
+Win rate:  0.7355371900826446
+# Final Rounds:  12
+# Won titles:  6
+Avg dur:  53.752066115702476
+Winning Trend by Round: 
+R1:  0.7714285714285715
+R2:  0.8214285714285714
+QF:  0.8181818181818182
+SF:  0.6666666666666666
+F:  0.5 
+
+Name : Anders ANTONSEN
+# Matches : 76
+# Matches Won:  46
+Win rate:  0.6052631578947368
+# Final Rounds:  4
+# Won titles:  1
+Avg dur:  54.3421052631579
+Winning Trend by Round: 
+R1:  0.6206896551724138
+R2:  0.7368421052631579
+QF:  0.6153846153846154
+SF:  0.5
+F:  0.25 
+

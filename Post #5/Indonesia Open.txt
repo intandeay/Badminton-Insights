@@ -1,0 +1,75 @@
+MS
+
+680        CHOU Tien Chen
+1803         Kento MOMOTA
+3009     KIDAMBI Srikanth
+4578        LEE Chong Wei
+6098         Kento MOMOTA
+7289      Jan O JORGENSEN
+8640        LEE Chong Wei
+10008       Simon SANTOSO
+11323       LEE Chong Wei
+12770       LEE Chong Wei
+
+WS
+
+582       Akane YAMAGUCHI
+1545         TAI Tzu Ying
+2495          Sayaka SATO
+3562         TAI Tzu Ying
+4619    Ratchanok INTANON
+5468           LI Xue Rui
+6439           LI Xue Rui
+7405         Saina NEHWAL
+8396           WANG Yihan
+9502         Saina NEHWAL
+
+MD
+
+581     Marcus Fernaldi GIDEON/Kevin Sanjaya SUKAMULJO INA
+1525    Marcus Fernaldi GIDEON/Kevin Sanjaya SUKAMULJO INA
+2472                            LI Jun Hui/LIU Yu Chen CHN
+3467                       LEE Yong Dae/YOO Yeon Seong
+4489                      KO Sung Hyun/SHIN Baek Cheol
+5176                       LEE Yong Dae/YOO Yeon Seong
+6003                    Mohammad AHSAN/Hendra SETIAWAN INA
+6917                       CHUNG Jae Sung/LEE Yong Dae KOR
+7807                                CAI Yun/FU Haifeng CHN
+8731                       FANG Chieh Min/LEE Sheng Mu TPE
+
+WD
+
+543         Yuki FUKUSHIMA/Sayaka HIROTA
+1446        Yuki FUKUSHIMA/Sayaka HIROTA
+2274           CHEN Qing Chen/Jia Yi Fan
+3129    Misaki MATSUTOMO/Ayaka TAKAHASHI
+3971               TANG Jinhua/TIAN Qing
+4661               TIAN Qing/ZHAO Yunlei
+5421                 BAO Yixin/CHENG Shu
+6151             WANG Xiaoli/YU Yang (F)
+6924             WANG Xiaoli/YU Yang (F)
+7696           KIM Min Jung/LEE Hyo Jung
+
+XD
+
+577                     ZHENG Si Wei/HUANG Ya Qiong
+1530                  Tontowi AHMAD/Liliyana NATSIR
+2473                  Tontowi AHMAD/Liliyana NATSIR
+3502                                 XU Chen/MA Jin CHN
+4503                                 XU Chen/MA Jin
+5341    Joachim FISCHER NIELSEN/Christinna PEDERSEN
+6255                          ZHANG Nan/ZHAO Yunlei
+7098       Sudket PRAPAKAMOL/Saralee THOUNGTHONGKAM
+7972                          ZHANG Nan/ZHAO Yunlei
+8927                Robert MATEUSIAK/Nadiezda ZIEBA POL
+
+CHN 16
+JPN 7
+INA 6
+KOR 5
+MAS 4
+TPE 4
+IND 3
+THA 2
+DEN 2
+POL 1

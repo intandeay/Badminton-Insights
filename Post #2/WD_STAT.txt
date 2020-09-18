@@ -1,0 +1,42 @@
+Name : CHEN Qing Chen/JIA Yi Fan
+# Matches : 54
+# Matches Won:  42
+Win rate:  0.7777777777777778
+# Final Rounds:  6
+# Won titles:  4
+Avg dur:  50.03703703703704
+Winning Trend by Round: 
+R1:  0.9285714285714286
+R2:  0.7692307692307693
+QF:  0.7
+SF:  0.75
+F:  0.6666666666666666 
+
+Name : Yuki FUKUSHIMA/Sayaka HIROTA
+# Matches : 122
+# Matches Won:  98
+Win rate:  0.8032786885245902
+# Final Rounds:  12
+# Won titles:  10
+Avg dur:  51.778688524590166
+Winning Trend by Round: 
+R1:  0.9666666666666667
+R2:  0.75
+QF:  0.8333333333333334
+SF:  0.5714285714285714
+F:  0.8333333333333334 
+
+Name : Mayu MATSUMOTO/Wakana NAGAHARA
+# Matches : 119
+# Matches Won:  87
+Win rate:  0.7310924369747899
+# Final Rounds:  9
+# Won titles:  3
+Avg dur:  45.621848739495796
+Winning Trend by Round: 
+R1:  0.9333333333333333
+R2:  0.8666666666666667
+QF:  0.6153846153846154
+SF:  0.5
+F:  0.3333333333333333 
+

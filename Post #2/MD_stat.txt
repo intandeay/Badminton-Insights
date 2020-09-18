@@ -1,0 +1,42 @@
+Name : Marcus Fernaldi GIDEON/Kevin Sanjaya SUKAMULJO
+# Matches : 129
+# Matches Won:  114
+Win rate:  0.8837209302325582
+# Final Rounds:  19
+# Won titles:  17
+Avg dur:  38.04651162790697
+Winning Trend by Round: 
+R1:  0.9642857142857143
+R2:  1.0
+QF:  0.7777777777777778
+SF:  0.8636363636363636
+F:  0.8947368421052632 
+
+Name : Mohammad AHSAN/Hendra SETIAWAN
+# Matches : 118
+# Matches Won:  86
+Win rate:  0.7288135593220338
+# Final Rounds:  12
+# Won titles:  4
+Avg dur:  37.313559322033896
+Winning Trend by Round: 
+R1:  0.9354838709677419
+R2:  0.7241379310344828
+QF:  0.7727272727272727
+SF:  0.6666666666666666
+F:  0.3333333333333333 
+
+Name : LI Jun Hui/LIU Yu Chen
+# Matches : 105
+# Matches Won:  76
+Win rate:  0.7238095238095238
+# Final Rounds:  7
+# Won titles:  3
+Avg dur:  43.58095238095238
+Winning Trend by Round: 
+R1:  0.896551724137931
+R2:  0.8461538461538461
+QF:  0.6363636363636364
+SF:  0.4666666666666667
+F:  0.42857142857142855 
+

@@ -1,0 +1,74 @@
+MS
+
+211        Kento MOMOTA
+1246          SHI Yu Qi
+2284     Viktor AXELSEN
+3754     Viktor AXELSEN
+5304       Kento MOMOTA
+6759          CHEN Long
+7870      LEE Chong Wei
+9312          CHEN Long
+10656           LIN Dan
+12016     LEE Chong Wei
+
+WS
+
+167           CHEN Yu Fei
+1060    PUSARLA V. Sindhu
+1952      Akane YAMAGUCHI
+2993         TAI Tzu Ying
+4067       Nozomi OKUHARA
+5098         TAI Tzu Ying
+5871           LI Xue Rui
+6910           LI Xue Rui
+7876           WANG Yihan
+8901         WANG Shixian
+
+MD
+
+166                     Mohammad AHSAN/Hendra SETIAWAN
+1047                            LI Jun Hui/LIU Yu Chen
+1931    Marcus Fernaldi GIDEON/Kevin Sanjaya SUKAMULJO
+2976                          GOH V Shem/TAN Wee Kiong
+3965                    Mohammad AHSAN/Hendra SETIAWAN
+4976                       LEE Yong Dae/YOO Yeon Seong
+5494                    Mohammad AHSAN/Hendra SETIAWAN
+6458                      Mathias BOE/Carsten MOGENSEN
+7345                      Mathias BOE/Carsten MOGENSEN
+8261                      Carsten MOGENSEN/Mathias BOE
+
+WD
+
+156                   CHEN Qing Chen/JIA Yi Fan
+1008           Misaki MATSUTOMO/Ayaka TAKAHASHI
+1817               Shiho TANAKA/Koharu YONEMOTO
+2703                  CHEN Qing Chen/Jia Yi Fan
+3520                            LUO Ying/LUO Yu
+4378           Misaki MATSUTOMO/Ayaka TAKAHASHI
+4989    Christinna PEDERSEN/Kamilla Rytter JUHL
+5800                    WANG Xiaoli/YU Yang (F)
+6538                    WANG Xiaoli/YU Yang (F)
+7305                    WANG Xiaoli/YU Yang (F)
+
+XD
+
+165                     ZHENG Si Wei/HUANG Ya Qiong
+1055                    WANG Yi Lyu/HUANG Dong Ping
+1938                     ZHENG Si Wei/CHEN Qingchen
+2977                     ZHENG Si Wei/CHEN Qingchen
+4001                  Chris ADCOCK/Gabrielle ADCOCK
+4983                          ZHANG Nan/ZHAO Yunlei
+5748    Joachim FISCHER NIELSEN/Christinna PEDERSEN
+6678    Joachim FISCHER NIELSEN/Christinna PEDERSEN
+7505                          ZHANG Nan/ZHAO Yunlei
+8432                          ZHANG Nan/ZHAO Yunlei
+
+CHN 23
+DEN 8
+JPN 7
+INA 4
+MAS 3
+TPE 2
+KOR 1
+IND 1
+ENG 1

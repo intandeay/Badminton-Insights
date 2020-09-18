@@ -1,0 +1,76 @@
+MS
+
+0        Viktor AXELSEN 20
+1000       Kento MOMOTA 19
+1995          SHI Yu Qi 18
+3383      LEE Chong Wei 17
+4927            LIN Dan 16
+6479          CHEN Long 15
+7649      LEE Chong Wei 14
+9029          CHEN Long 13
+10368           LIN Dan 12
+11800     LEE Chong Wei 11
+
+WS
+
+0         TAI Tzu Ying
+854        CHEN Yu Fei
+1712      TAI Tzu Ying
+2781      TAI Tzu Ying
+3854    Nozomi OKUHARA
+4931    Carolina MARIN
+5703      WANG Shixian
+6696         Tine BAUN
+7661        LI Xue Rui
+8729      WANG Shixian
+
+MD
+
+0                          Hiroyuki ENDO/Yuta WATANABE 
+848                     Mohammad AHSAN/Hendra SETIAWAN
+1692    Marcus Fernaldi GIDEON/Kevin Sanjaya SUKAMULJO
+2761    Marcus Fernaldi GIDEON/Kevin Sanjaya SUKAMULJO
+3754                      Vladimir IVANOV/Ivan SOZONOV
+4808                      Mathias BOE/Carsten MOGENSEN
+5345                    Mohammad AHSAN/Hendra SETIAWAN
+6256                            LIU Xiaolong/QIU Zihan
+7141                       CHUNG Jae Sung/LEE Yong Dae
+8092                      Mathias BOE/Carsten MOGENSEN
+
+WD
+
+0                  Yuki FUKUSHIMA/Sayaka HIROTA
+807                   CHEN Qing Chen/Jia Yi Fan
+1583    Kamilla Rytter JUHL/Christinna PEDERSEN
+2541                     CHANG Ye Na/LEE So Hee
+3329           Misaki MATSUTOMO/Ayaka TAKAHASHI
+4243                    BAO Yixin/TANG Yuanting
+4868                    WANG Xiaoli/YU Yang (F) (14)
+5623                    WANG Xiaoli/YU Yang (F)
+6349                      TIAN Qing/ZHAO Yunlei
+7160                    WANG Xiaoli/YU Yang (F)
+
+XD
+
+0       Praveen JORDAN/Melati Daeva OKTAVIANTI
+849                ZHENG Si Wei/HUANG Ya Qiong
+1697             Yuta WATANABE/Arisa HIGASHINO
+2763                     LU Kai/HUANG Ya Qiong
+3786              Praveen JORDAN/Debby SUSANTO
+4825                     ZHANG Nan/ZHAO Yunlei
+5601             Tontowi AHMAD/Liliyana NATSIR
+6478             Tontowi AHMAD/Liliyana NATSIR
+7308             Tontowi AHMAD/Liliyana NATSIR
+8260                            XU Chen/MA Jin
+
+CHN 20
+INA 9
+JPN 6
+DEN 5
+MAS 3
+TPE 3
+KOR 2
+RUS 1
+ESP 1
+
+
